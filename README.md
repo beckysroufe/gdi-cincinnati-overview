@@ -1,35 +1,32 @@
-GDI Cincinnati - 3 Year Anniversary Presentation
+GDI Cincinnati - Brief Overview
 ======================
 
-Our 3-year recap of all we've done the past 3 years - including:
+A two-slide overview of the following:
 
-**National Org Overview**
-* GDI: How It All Started
-* GDI: Current Status, Growth, and more
-* Diversity Struggles
+* National & Local Overview
 
-**GDI Cincinnati:**
-* Who We Are
-* Cincinnati by the Numbers: Growth, Curriculum, Team, Students
-* Where We're Going
-* Growth, Curriculum, Team, Membership
+*National*
 
-**Meet Our Team**
-* GDI Cincinnati Team
-* Staff: John David Back
-* Staff: Catherine Rust
+** Origins
+** Who we are
+** National stats
+** Call to action
+** What we provide
 
-**Meet Our Students:**
-* Student: Irena Miller
-* Student: Sarah Sachs
+*Local*
 
-**Meet Our Community**
-* Thank You Sponsors!
-* Sponsor:  Creatives on Call
+** Local Origins
+** Who we are
+** What we provide
+** Educational needs
+** Community needs
+** Who we serve
 
-**Upcoming Events**
-* Fall 2015
-
-**How You Can Help**
-* Sponsorship, Encourage Potential Students
-* Thank You
+* Cincinnati by the Numbers
+** Membership
+** Growth
+** Demographics
+** Goals
+** Classes
+** Challenge
+** Who we're helping
